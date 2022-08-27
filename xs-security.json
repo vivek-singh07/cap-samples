@@ -1,0 +1,7 @@
+{
+  "xsappname": "northwind",
+  "tenant-mode": "dedicated",
+  "scopes": [],
+  "attributes": [],
+  "role-templates": []
+}
